@@ -41,11 +41,4 @@ This is a calendar based appointment and todo-list, created using the low-level 
 
 This project is under [GNU GENERAL PUBLIC LICENSE v3.0](https://github.com/yoshikazuuu/cursed-todolist/blob/main/LICENSE).
 
-<br>
-
-## :busts_in_silhouette: <samp>Contributors</samp>
-
-<a href="https://github.com/Yoshikazuuu/cursed-todolist/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Yoshikazuuu/cursed-todolist"/>
-</a>
 </div>
